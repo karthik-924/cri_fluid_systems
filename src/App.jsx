@@ -21,7 +21,7 @@ function App() {
               C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for
               the 4th time.
             </h1>
-            <ul className=" text-sm font-[540] ml-[58px] mr-1 list-disc max-sm:ml-0">
+            <ul className=" text-base font-[540] ml-[58px] mr-1 list-disc max-sm:ml-0">
               <li className=" leading-4">
                 C.R.I.&apos;s energy efficient products are well recognized by
                 various Government Institutions, as trustworthy products for
@@ -35,7 +35,7 @@ function App() {
               </li>
             </ul>
             <img src={GrpPhoto} alt="group" className="w-[95%] mt-2" />
-            <p className="text-sm font-[540] ml-[54px] leading-4 w-full max-sm:ml-0">
+            <p className="text-base font-[540] ml-[54px] leading-4 w-full max-sm:ml-0">
               Government of India has awarded the{" "}
               <span className=" font-bold">
                 &quot;National Energy Conservation Award 2018&quot;.
