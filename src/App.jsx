@@ -21,7 +21,7 @@ function App() {
               C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for
               the 4th time.
             </h1>
-            <ul className=" text-base font-[540] ml-[58px] mr-1 list-disc max-sm:ml-0">
+            <ul className=" text-[15px] font-[540] ml-[58px] mr-1 list-disc max-sm:ml-0">
               <li className=" leading-4">
                 C.R.I.&apos;s energy efficient products are well recognized by
                 various Government Institutions, as trustworthy products for
@@ -35,7 +35,7 @@ function App() {
               </li>
             </ul>
             <img src={GrpPhoto} alt="group" className="w-[95%] mt-2" />
-            <p className="text-base font-[540] ml-[54px] leading-4 w-full max-sm:ml-0">
+            <p className="text-[15px] font-[540] ml-[54px] leading-4 w-full max-sm:ml-0">
               Government of India has awarded the{" "}
               <span className=" font-bold">
                 &quot;National Energy Conservation Award 2018&quot;.
@@ -71,47 +71,47 @@ function App() {
           </p>
           <p className="text-base text-center max-w-full leading-4">
             CHEMICALS & PROCESS{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             POWER{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             WATER & WASTE WATER{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             OILS & GAS{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             PHARMA{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             SUGARS & DISTILLERIES{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             PAPER & PULP{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             MARINE & DEFENCE{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             METAL & MINING{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             FOOD & BEVERAGE{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             PETROCHEMICAL & REFINERIES{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             SOLAR{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             BUILDING{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             HVAC{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             FIRE FIGHTING{""}
-            <span className="text-[#f03434] items-center text-center">|</span>
+            <span className="text-[#f03434] font-bold ml-1 mr-1 text-lg items-center text-center">|</span>
             {""}
             AGRICULTURE & RESIDENTIAL.
           </p>
